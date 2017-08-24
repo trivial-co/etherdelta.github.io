@@ -24,11 +24,13 @@
   "tokens": [
     { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "decimals": 18 },
     { "addr": "0xfb4bbf7f409e3ec35d77d65dcd0d6477dcae4d15", "name": "TRT", "decimals": 0 },
-    { "addr": "0x55fc04a73f058832b4f3498dc83ceb6e53a9e314", "name": "TCT", "decimals": 0 }
+    { "addr": "0x55fc04a73f058832b4f3498dc83ceb6e53a9e314", "name": "TCT", "decimals": 0 },
+    { "addr": "0x1A76aFb552152601190b0fFb9235847EC13339Bd", "name": "TDT", "decimals": 0 }
   ],
   "defaultPair": { "token": "TRT", "base": "ETH" },
   "pairs": [
     { "token": "TRT", "base": "ETH" },
-    { "token": "TCT", "base": "ETH" }
+    { "token": "TCT", "base": "ETH" },
+    { "token": "TDT", "base": "ETH" }
   ]
 }
